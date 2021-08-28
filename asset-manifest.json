@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-flow-renderer/static/css/main.d0214459.chunk.css",
+    "main.js": "/react-flow-renderer/static/js/main.188e654b.chunk.js",
+    "main.js.map": "/react-flow-renderer/static/js/main.188e654b.chunk.js.map",
+    "runtime-main.js": "/react-flow-renderer/static/js/runtime-main.4e4b76a1.js",
+    "runtime-main.js.map": "/react-flow-renderer/static/js/runtime-main.4e4b76a1.js.map",
+    "static/js/2.55a6f70d.chunk.js": "/react-flow-renderer/static/js/2.55a6f70d.chunk.js",
+    "static/js/2.55a6f70d.chunk.js.map": "/react-flow-renderer/static/js/2.55a6f70d.chunk.js.map",
+    "static/js/3.3be7a36a.chunk.js": "/react-flow-renderer/static/js/3.3be7a36a.chunk.js",
+    "static/js/3.3be7a36a.chunk.js.map": "/react-flow-renderer/static/js/3.3be7a36a.chunk.js.map",
+    "index.html": "/react-flow-renderer/index.html",
+    "static/css/main.d0214459.chunk.css.map": "/react-flow-renderer/static/css/main.d0214459.chunk.css.map",
+    "static/js/2.55a6f70d.chunk.js.LICENSE.txt": "/react-flow-renderer/static/js/2.55a6f70d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e4b76a1.js",
+    "static/js/2.55a6f70d.chunk.js",
+    "static/css/main.d0214459.chunk.css",
+    "static/js/main.188e654b.chunk.js"
+  ]
+}
